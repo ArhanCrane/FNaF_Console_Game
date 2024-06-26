@@ -4,4 +4,4 @@ There's only one night with Bonnie and Chica and that's it.
 
 It's gonna look like this:
 
-<p align="center"><img src="Screenshot_1.png"></p>
+<p align="center"><img src="screenshot_1.png"></p>
