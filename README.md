@@ -3,3 +3,5 @@ It's not the same game as the real FNaF 1. I've made this just because of fun an
 There's only one night with Bonnie and Chica and that's it.
 
 It's gonna look like this:
+
+<p align="center"><img src="Screenshot_1.png"></p>
