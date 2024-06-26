@@ -1,9 +1,9 @@
 # FNaF_Console_Game
 
-That's a console game of the Five Nights at Freddys 1
-This project has only one night with Bonnie and Chica.
+<p align="center">That's a console game of the Five Nights at Freddys 1
+<p align="center">This project has only one night with Bonnie and Chica.
 
-You just need to install four files or copy them and open then in your C++ IDE
+<p align="center">You just need to install four files or copy them and open then in your C++ IDE
 
 All you'll see is gonna look like this:
 
