@@ -3,7 +3,7 @@
 #include <chrono>
 #include <thread>
 
-#include "Functions.h"
+#include "functions.h"
 
 using namespace std;
 
