@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <random>
 
-#include "Variables.h"
+#include "variables.h"
 #include "define_points.h"
 
 using namespace std;
