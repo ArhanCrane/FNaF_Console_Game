@@ -6,7 +6,7 @@ This project has only one night with Bonnie and Chica.
 I'm gonna to warn that the AI of Bonnie and Chika are predictable.
 There's no random.
 
-You just need to install four files or copy them and open then in your C++ IDE
+<!--You just need to install four files or copy them and open them in your C++ IDE-->
 
 All you'll see is gonna look like this:
 
